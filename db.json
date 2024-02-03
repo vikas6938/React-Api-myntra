@@ -1,0 +1,239 @@
+{
+  "users": [
+    {
+      "id": "321A",
+      "name": "om",
+      "password": "321",
+      "fname": "om",
+      "email": "om@gmail.com"
+    },
+    {
+      "id": "321B",
+      "name": "kashyap",
+      "password": "654",
+      "fname": "kashyap",
+      "email": "kashyap@gmail.com"
+    },
+    {
+      "id": "321C",
+      "name": "Riya",
+      "password": "987",
+      "fname": "Riya",
+      "email": "riya@gmail.com"
+    },
+    {
+      "id": "321D",
+      "name": "jay",
+      "password": "258",
+      "fname": "jay",
+      "email": "jay@gmail.com"
+    },
+    {
+      "id": "321E",
+      "name": "vikas",
+      "password": "369",
+      "fname": "vikas",
+      "email": "vikas@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "id": "0",
+      "name": "Truke Clarity 5 V2 6Mics",
+      "price": 1299,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/j/n/b/-original-imagwu9gyhtnjw9y.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "1",
+      "name": "BoAt Immortal 131",
+      "price": 1099,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "2",
+      "name": "Boult W20 with Zen ENC Mic",
+      "price": 2099,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "3",
+      "name": "OnePlus Nord Buds",
+      "price": 44900,
+      "qty": 1,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/b/l/-original-imagtyp3bdgnwyby.jpeg?q=70"
+    }
+  ],
+  "cart": [
+    {
+      "id": "321A",
+      "userId": "cd49",
+      "product": {
+        "id": "0",
+        "name": "Boat Lunar Prime",
+        "price": 2599,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/j/n/b/-original-imagwu9gyhtnjw9y.jpeg?q=70&crop=false"
+      },
+      "quantity": 2
+    },
+    {
+      "id": "321B",
+      "userId": "cd49",
+      "product": {
+        "id": "3",
+        "name": "Apple Series 9",
+        "price": 44900,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "321C",
+      "userId": "fa30",
+      "product": {
+        "id": "0",
+        "name": "Boat Lunar Prime",
+        "price": 2599,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "321D",
+      "userId": "fa30",
+      "product": {
+        "id": "2",
+        "name": "Fire-Boltt Supernova ",
+        "price": 1999,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/b/l/-original-imagtyp3bdgnwyby.jpeg?q=70"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "321E",
+      "userId": "24d2",
+      "product": {
+        "id": "2",
+        "name": "Fire-Boltt Supernova ",
+        "price": 1999,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/b/l/-original-imagtyp3bdgnwyby.jpeg?q=70"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "ccea",
+      "userId": "65c9",
+      "product": {
+        "id": "0",
+        "name": "Truke Clarity 5 V2 6Mics",
+        "price": 1299,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/j/n/b/-original-imagwu9gyhtnjw9y.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "42c9",
+      "userId": "321A",
+      "product": {
+        "id": "1",
+        "name": "BoAt Immortal 131",
+        "price": 1099,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "621d",
+      "userId": "321A",
+      "product": {
+        "id": "2",
+        "name": "Boult W20 with Zen ENC Mic",
+        "price": 2099,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "4a40",
+      "userId": "321A",
+      "product": {
+        "id": "3",
+        "name": "OnePlus Nord Buds",
+        "price": 44900,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/b/l/-original-imagtyp3bdgnwyby.jpeg?q=70"
+      },
+      "quantity": 1
+    },
+    {
+      "userId": "65c9",
+      "product": {
+        "id": "2",
+        "name": "Boult W20 with Zen ENC Mic",
+        "price": 2099,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70&crop=false"
+      },
+      "quantity": 2,
+      "id": "2ac9"
+    },
+    {
+      "id": "33cb",
+      "userId": "65c9",
+      "product": {
+        "id": "1",
+        "name": "BoAt Immortal 131",
+        "price": 1099,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/3/p/h/-original-imagtapyyc6awuzq.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "125e",
+      "userId": "321E",
+      "product": {
+        "id": "0",
+        "name": "Truke Clarity 5 V2 6Mics",
+        "price": 1299,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/j/n/b/-original-imagwu9gyhtnjw9y.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "c89f",
+      "userId": "321E",
+      "product": {
+        "id": "2",
+        "name": "Boult W20 with Zen ENC Mic",
+        "price": 2099,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/x/o/-original-imagt5cwzxknqpbu.jpeg?q=70&crop=false"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "7edd",
+      "userId": "321E",
+      "product": {
+        "id": "3",
+        "name": "OnePlus Nord Buds",
+        "price": 44900,
+        "qty": 1,
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/b/l/-original-imagtyp3bdgnwyby.jpeg?q=70"
+      },
+      "quantity": 1
+    }
+  ]
+}
