@@ -4,7 +4,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import swal from 'sweetalert'
 
-const Login = ({ setIsLoggedIn, setLoggedInuser}) => {
+const Login = ({ setIsLoggedIn, setLoggedInuser }) => {
 
     const [input, setInput] = useState({
         name: '',
@@ -13,7 +13,7 @@ const Login = ({ setIsLoggedIn, setLoggedInuser}) => {
 
 
 
-    
+
     const handleChange = (e) => {
         setInput({ ...input, [e.target.name]: e.target.value })
     }
@@ -47,12 +47,12 @@ const Login = ({ setIsLoggedIn, setLoggedInuser}) => {
                 <form class="form" onSubmit={handleSubmit}>
                     <div class="input-group">
                         <label for="username" className='text-white'>Username / Email</label>
-                        <input type="email" name="email"  id="username" placeholder="Enter Your Username" onChange={handleChange} />
+                        <input type="email" name="email" id="username" placeholder="Enter Your Username" onChange={handleChange} />
                         <ToastContainer />
                     </div>
                     <div class="input-group">
                         <label for="password" className='text-white'>Password</label>
-                        <input type="password"  name="password" id="password" placeholder="Enter Your Password" onChange={handleChange} />
+                        <input type="password" name="password" id="password" placeholder="Enter Your Password" onChange={handleChange} />
                         <div class="forgot">
                             <a rel="noopener noreferrer" href="#">Forgot Password ?</a>
                         </div>

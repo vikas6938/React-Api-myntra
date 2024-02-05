@@ -34,6 +34,13 @@
       "password": "369",
       "fname": "vikas",
       "email": "vikas@gmail.com"
+    },
+    {
+      "id": "c34e",
+      "name": "vikas1",
+      "password": "123",
+      "fname": "vikas1",
+      "email": "vikas1@gmail.com"
     }
   ],
   "product": [
