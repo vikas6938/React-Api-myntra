@@ -41,6 +41,13 @@
       "password": "123",
       "fname": "vikas1",
       "email": "vikas1@gmail.com"
+    },
+    {
+      "id": "bb83",
+      "name": "abc",
+      "password": "123",
+      "fname": "abc",
+      "email": "abc@gmail.com"
     }
   ],
   "product": [
